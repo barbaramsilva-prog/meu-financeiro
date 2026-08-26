@@ -1,16 +1,32 @@
-# React + Vite
+# 💰 Meu Financeiro
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+Aplicativo de controle financeiro pessoal desenvolvido para facilitar o acompanhamento de receitas, despesas, contas, cartões e metas financeiras.
 
-Currently, two official plugins are available:
+O projeto foi desenvolvido como parte do meu processo de aprendizado em Desenvolvimento de Software.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## ✨ Funcionalidades
 
-## React Compiler
+- 📊 Dashboard financeiro
+- 💰 Controle de receitas e despesas
+- 🏦 Gerenciamento de contas
+- 💳 Controle de cartões
+- 📈 Análises financeiras
+- 🎯 Metas financeiras
+- 💼 Controle de patrimônio
+- ⚙️ Configurações de planejamento financeiro
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠️ Tecnologias
 
-## Expanding the Oxlint configuration
+- React
+- Vite
+- JavaScript
+- CSS
+- Git
+- GitHub
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+## 🚀 Como executar o projeto
+
+### 1. Clone o repositório
+
+```bash
+git clone https://github.com/barbaramsilva-prog/meu-financeiro.git
